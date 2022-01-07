@@ -1,0 +1,3 @@
+[submodule "repo_secundaria"]
+	path = repo_secundaria
+	url = https://github.com/jordan1085/repo_secundaria.git
